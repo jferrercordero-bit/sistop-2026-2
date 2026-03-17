@@ -282,22 +282,17 @@
 - Documentación :: [[./EspinosaGonzalez-RoseteManzano/README.md][README.md]]
 - Archivos :: [[./EspinosaGonzalez-RoseteManzano/minishell (1).py][minishell (1).py]]
 - Comentarios ::
-  - El archivo ~minishell (1).py~ tiene varias evidencias de haber sido
-    generado por un LLM.
-  - Les pido que me detallen, mediante un correo electrónico, el alcance de
-    la /ayuda/ que les dio el generador, y qué porciones del mismo son
-    desarrollo y comprensión propios.
-    - No está prohibido utilizar LLMs — pero sí hacerlo sin entender parte
-      del resultado.
+  - Implementación limpia y bien documentada. ¡Muy bien!
+  - ¡Muy bien por manejar ejecución en segundo plano!
 - Calificación ::
   | *Concepto*                       | *Peso* | *Evaluación* | *Valor* |
   |----------------------------------+--------+--------------+---------|
-  | Funcionamiento correcto          |    0.6 |              |      0. |
-  | Manejo de señales                |    0.2 |              |      0. |
-  | Claridad de código y comentarios |    0.1 |              |      0. |
-  | Documentación en README          |    0.1 |              |      0. |
+  | Funcionamiento correcto          |    0.6 |           10 |      6. |
+  | Manejo de señales                |    0.2 |           10 |      2. |
+  | Claridad de código y comentarios |    0.1 |           10 |      1. |
+  | Documentación en README          |    0.1 |           10 |      1. |
   |----------------------------------+--------+--------------+---------|
-  | *Total*                          |        |              |      0. |
+  | *Total*                          |        |              |     10. |
   #+tblfm: @2$4..@5$4=$2 * $3::@6$4=vsum(@2..@5)
 
 ** Aldo Estrada, Jazmín Sánchez
