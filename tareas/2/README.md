@@ -8,11 +8,8 @@ semáforos, y mencionamos también la existencia de otros (variables de
 condición, señales y manejadores Unix...)
 
 Resolvimos ya algunos problemas _clásicos_, y desarrollamos el problema de
-**(¿cuál fue el que desarrollamos? 😉)*<!--  en un 90% (nos faltó únicamente que -->
-<!-- el *profesor* se dé cuenta que no hay ningún alumno esperando y vuelva a -->
-<!-- dormir un rato). Pueden [consultar aquí el código que desarrollamos en -->
-<!-- clase](../../ejemplos_en_clase/3.Adm.Procesos/alumnos_y_asesor.py) **⇐ -->
-<!-- ¡Revisar!**. -->
+«_El Servidor Web_». Pueden [consultar aquí el código que desarrollamos en
+clase](../../ejemplos_en_clase/2. Administración de procesos/el_servidor_web.py)
 
 Ahora toca el turno a ustedes: Van a resolver un problema de programación
 concurrente en el que sea necesario emplear algún mecanismo de sincronización.
